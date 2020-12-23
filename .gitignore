@@ -125,5 +125,6 @@ creds.json
 discord.json
 config/
 
-# vscode
+# ide
 .vscode/
+.idea/
